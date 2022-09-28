@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Adi Wicaksono</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-the-crack&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-the-crack" /> </p>
+<p align = 'center'><img src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif", width = 300>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samuel-the-crack&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-the-crack" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Data Analysis using Python**
 
